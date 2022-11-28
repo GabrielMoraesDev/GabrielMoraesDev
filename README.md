@@ -6,7 +6,7 @@
 
 ⚙ SAP ABAP | SAP Fiori | SAPUI5 | SAP BI
 
-🌎 São Paulo - Brasil.
+🌎 São Paulo - Brasil
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-SAP" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SAP_2011_logo.svg/2560px-SAP_2011_logo.svg.png">
