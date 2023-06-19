@@ -1,8 +1,8 @@
 <h1>Olá! Eu sou o Gabriel Moraes</h1>
 
-👨🏻‍💻 Desenvolvedor SAP ABAP 
+👨🏻‍💻 Desenvolvedor SAP
 
-🎓 Bacharelando em Sistemas de Informação e Pós-graduado em Business Intelligence
+🎓 Bacharel em Sistemas de Informação e Pós-graduado em Business Intelligence
 
 ⚙ SAP ABAP | SAP Fiori | SAPUI5 | SAP BI
 
