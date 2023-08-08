@@ -2,7 +2,7 @@
 
 👨🏻‍💻 Desenvolvedor SAP
 
-🎓 Bacharel em Sistemas de Informação e Pós-graduado em Business Intelligence
+🎓 Bacharel em Sistemas de Informação, Tecnólogo em Segurança da Informação e Pós-graduado - MBA em Business Intelligence
 
 ⚙ SAP ABAP | SAP Fiori | SAPUI5 | SAP BI
 
