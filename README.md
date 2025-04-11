@@ -4,7 +4,7 @@
 
 🎓 Bacharel em Sistemas de Informação, Tecnólogo em Segurança da Informação e Pós-graduado - MBA em Business Intelligence.
 
-⚙ SAP ABAP | ABAP OO | RAP | CDS View | SAP Fiori 
+⚙ SAP Developer | ABAP | ABAP OO | Gateway | CDS View | RAP | Fiori | JavaScript 
 
 🌎 São Paulo - Brasil
 
